@@ -1,5 +1,3 @@
-print("new file in the MAIN branch --- mod in LOGIN")
+print("new file in the MAIN branch")
 
-
-print("modifying the HelloGit3 in LOGIN branch")
-
+print("modifying helloGit3 in the MAIN branch")
